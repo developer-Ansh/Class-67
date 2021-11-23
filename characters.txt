@@ -2,3 +2,5 @@ Harry Potter
 Ron Weasley
 Hermione Granger
 Lord Voldemort
+Albus Dumbledore
+Hagrid
